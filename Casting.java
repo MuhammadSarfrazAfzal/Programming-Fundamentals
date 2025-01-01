@@ -1,7 +1,7 @@
 public class Casting {
 
     public static void main(String[] args) {
-        // implicent type casting
+        // implicit type casting
         short input1 = 30;
         int outPut1 = input1 + 7;
         System.out.println(outPut1);
